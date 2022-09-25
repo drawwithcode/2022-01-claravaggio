@@ -1,3 +1,4 @@
+// concept: personal re-interpretation of Hilma Af Klint, Altarpiece nº1-3, 1915
 function preload() {
 }
 
